@@ -11,8 +11,7 @@
 - 👯 I’m looking to collaborate on any freelance Android Projects.
 - 🤔 I’m looking for help with `compose` 
 - 📫 How to reach me:https://www.linkedin.com/in/brian-kubai-655588167/
-- ⚡ Fun fact: I love Startrek.
--->
+- ⚡ Fun fact: I love Startrek.🤖
 
 
 #### Stats
