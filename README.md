@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-<!--
-**ngugikubai/ngugikubai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 #### Junior Android Developer in Making.
 
-#### BIO
+### BIO
 - 🏢 I'm currently working at GitHub
 - 🔭 I’m currently working on a cloning a G-mail application.
 - 🌱 I’m currently learning more about Compose, Android and Kotlin.
