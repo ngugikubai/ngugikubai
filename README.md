@@ -3,7 +3,6 @@
 #### Junior Android Developer in Making.
 
 ### Bio
-- 🏢 I'm currently working at GitHub
 - 🔭 I’m currently working on a cloning a G-mail application.
 - 🌱 I’m currently learning more about Compose, Android and Kotlin.
 - ⚙️ I use daily:`kotlin`,`xml`,`compose`
